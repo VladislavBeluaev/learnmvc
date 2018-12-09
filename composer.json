@@ -1,0 +1,16 @@
+{
+  "name": "e_shopper",
+  "version": "0.0.1",
+  "autoload":{
+
+    "psr-4":{
+      "Acme\\":"application/"
+    },
+    "classmap":["core/","database/"],
+    "files":["helpers/fillRequiredTables/fillTables.php"]
+  },
+  "require":{
+    "php":">=7.0.0",
+    "sunra/php-simple-html-dom-parser": "1.5.2"
+  }
+}

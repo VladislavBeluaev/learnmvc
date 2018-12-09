@@ -1,0 +1,3109 @@
+{
+ "desctopItems": [
+  {
+   "name1": "Системный блок Oldi Computers Home 306 (0629561)",
+   "url": "https://www.eldorado.ru/cat/detail/71385033/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/850/33/new_71385033_l_1540900723.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385033/",
+   "price": "21 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.5 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.8 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion 590-p0025ur (4JS57EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71378267/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/782/67/new_71378267_l_1533637532.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71378267/",
+   "price": "42 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-8100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel UHD Graphics 630 + NVIDIA GeForce GTX 1050"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2000 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Dell Vostro 3667-0765",
+   "url": "https://www.eldorado.ru/cat/detail/71377795/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/777/95/new_71377795_l_1533544426.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71377795/",
+   "price": "27 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-6100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.7 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel HD Graphics 530"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Lenovo IdeaCentre 310S-08ASR (90G9000TRS)",
+   "url": "https://www.eldorado.ru/cat/detail/71370061/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/700/61/new_71370061_l_1517584914.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71370061/",
+   "price": "24 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A9-9430"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.2 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Slimline 260-a104ur",
+   "url": "https://www.eldorado.ru/cat/detail/71368815/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/688/15/new_71368815_l_1513184526.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71368815/",
+   "price": "15 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "E2-7110"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R2"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Oldi Computers Office 106 0520331",
+   "url": "https://www.eldorado.ru/cat/detail/71367283/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/672/83/new_71367283_l_1510653908.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71367283/",
+   "price": "18 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A4-6300"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.7 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.9 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "512 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon HD 8370D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Oldi Computers Office 100 (0559935)",
+   "url": "https://www.eldorado.ru/cat/detail/71375190/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/751/90/new_71375190_l_1530124563.png/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71375190/",
+   "price": "14 490 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Celeron J3355"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.5 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "HD Graphics 500"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion 590-p0029ur (4JS51EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71378440/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/784/40/new_71378440_l_1533670932.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71378440/",
+   "price": "35 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A10-9700"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.5 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.8 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "RX 550"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2000 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP 590-a0011ur (4KF66EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71378752/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/787/52/new_71378752_l_1534769593.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71378752/",
+   "price": "21 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A6-9225"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.6 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R4"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion 590-p0031ur (4JY20EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71378439/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/784/39/new_71378439_l_1533670789.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71378439/",
+   "price": "35 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A10-9700"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.5 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.8 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon 520"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2000 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 740 (0527387)",
+   "url": "https://www.eldorado.ru/cat/detail/71373682/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/736/82/new_71373682_l_1524740280.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71373682/",
+   "price": "130 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-8100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "2.250 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070 Ti"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 750 (0527398)",
+   "url": "https://www.eldorado.ru/cat/detail/71373680/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/736/80/new_71373680_l_1524689898.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71373680/",
+   "price": "205 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700K"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.7 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.7 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "32 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "2.250 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1080"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 750 (0527391)",
+   "url": "https://www.eldorado.ru/cat/detail/71373681/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/736/81/new_71373681_l_1524740374.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71373681/",
+   "price": "165 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700K"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.7 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.7 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "32 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "2.250 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1080"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 740 (0527358)",
+   "url": "https://www.eldorado.ru/cat/detail/71373683/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/736/83/new_71373683_l_1524740107.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71373683/",
+   "price": "125 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-8100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "2.250 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070 Ti"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер HP Omen 880-111ur (3EQ89EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71378756/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/787/56/new_71378756_l_1533997715.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71378756/",
+   "price": "70 490 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+Intel Optane"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Объем памяти Intel Optane",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel UHD Graphics 630 + NVIDIA GeForce GTX 1050"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2000 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen 880-180ur (4NF79EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385623/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/23/new_71385623_l_1542292725.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385623/",
+   "price": "117 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.2 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel UHD Graphics 630/ GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "6144 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion 590-a0025ur (5KP33EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385816/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/16/new_71385816_l_1542154044.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385816/",
+   "price": "24 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "1.5 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "UHD Graphics 600"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP 460-p230ur (5KT90EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385817/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/17/new_71385817_l_1542105692.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385817/",
+   "price": "48 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.4 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2048 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP 460-p229ur (5KU21EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385818/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/18/new_71385818_l_1542106647.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385818/",
+   "price": "29 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "HD Graphics 630"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen 880-113ur (3EQ91EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385846/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/46/new_71385846_l_1542117222.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385846/",
+   "price": "85 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1016 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "6144 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Acer Aspire XC-330 (DT.B9DER.003)",
+   "url": "https://www.eldorado.ru/cat/detail/71386013/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/860/13/new_71386013_l_1542488461.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71386013/",
+   "price": "16 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A4-9120"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.2 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "2.5 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R3"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion 570-p081ur",
+   "url": "https://www.eldorado.ru/cat/detail/71368818/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/688/18/new_71368818_l_1513183040.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71368818/",
+   "price": "29 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A8-9600"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.1 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R5 435"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2000 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Acer Aspire TC-730 (DT.B6LER.003)",
+   "url": "https://www.eldorado.ru/cat/detail/71369763/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/697/63/new_71369763_l_1518384004.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71369763/",
+   "price": "25 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Pentium J4205"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "1.5 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "2.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1024 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GT 710"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "1024 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Dell Vostro 3667 (3667-0789)",
+   "url": "https://www.eldorado.ru/cat/detail/71367276/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/672/76/new_71367276_l_1510652474.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71367276/",
+   "price": "28 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-6100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.7 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GT710"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2048 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Slimline 260-a141ur",
+   "url": "https://www.eldorado.ru/cat/detail/71368816/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/688/16/new_71368816_l_1513184876.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71368816/",
+   "price": "22 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A6-7310"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "2.4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon R4"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Apple Mac Mini (MGEQ2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71124942/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/711/249/42/new_71124942_l_33.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71124942/",
+   "price": "45 540 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "MacOS X"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-4308U"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.3 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1000 Гб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel HD Graphics"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion 595-p0057ur (4DW50EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71383900/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/839/00/new_71383900_l_1540451031.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71383900/",
+   "price": "59 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1024+128 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050 Ti"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "4096 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Lenovo IdeaCentre 510-15ABR (90G7004GRS)",
+   "url": "https://www.eldorado.ru/cat/detail/71368297/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/682/97/new_71368297_l_1513788156.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71368297/",
+   "price": "29 990 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "A8-9600"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.1 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1024 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "AMD"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Radeon RX 550"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2048 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок Apple Mac Mini (MGEM2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71124941/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/711/249/41/new_71124941_l_646.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71124941/",
+   "price": "27 910 р.",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "MacOS X"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-4260U"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "1.4 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "2.7 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "500 Гб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel HD Graphics 5000"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 760 (0632065)",
+   "url": "https://www.eldorado.ru/cat/detail/71383644/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/836/44/new_71383644_l_1539858097.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71383644/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700K"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.7 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.7 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "250 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce RTX 2080"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 740 (0629952)",
+   "url": "https://www.eldorado.ru/cat/detail/71383645/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/836/45/new_71383645_l_1539859769.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71383645/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.1 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "120 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070 Ti"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер Oldi Computers Game 730 (0632886)",
+   "url": "https://www.eldorado.ru/cat/detail/71383646/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/836/46/new_71383646_l_1539859024.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71383646/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.1 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "250 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "6144 МБ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер HP Omen 880-116ur (3EQ94EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385606/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/06/new_71385606_l_1541718316.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385606/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.3 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер HP 790-0000ur (4DV18EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385609/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/09/new_71385609_l_1541718505.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385609/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер HP Omen Obelisk 875-0001ur (4UE30EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385610/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/10/new_71385610_l_1541718562.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385610/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "FreeDOS"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-8100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2048 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Игровой компьютер HP Omen Obelisk 875-0002ur (4UB71EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385611/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/11/new_71385611_l_1541718621.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385611/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Игровой системный блок",
+       "value": "Есть"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-8100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2048 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen Obelisk 875-0003ur (4UA33EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385612/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/12/new_71385612_l_1541675761.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385612/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "FreeDOS"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i3-8100"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1128 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050 Ti"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "4096 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen Obelisk 875-0006ur (4UE12EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385615/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/15/new_71385615_l_1541678046.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385615/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "2048 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen Obelisk 875-0012ur (4UC94EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385621/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/21/new_71385621_l_1541691110.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385621/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "2304 Гб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "Нет"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "Intel UHD Graphics 630 + NVIDIA GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "6000 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion Gaming 790-0001ur (4DV19EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385622/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/22/new_71385622_l_1541980966.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385622/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1080"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Envy 795-0000ur (4KC35EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385627/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/27/new_71385627_l_1542667310.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385627/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "6144 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Envy 795-0001ur (4JZ31EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385628/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/28/new_71385628_l_1542667327.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385628/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Envy 795-0002ur (4JW62EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385629/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/29/new_71385629_l_1542667346.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385629/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.2 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1070"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Envy 795-0003ur (4KG61EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385630/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/856/30/new_71385630_l_1542667392.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385630/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.2 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "32 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1.256 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1080"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen Obelisk 875-0015ur (5CR21EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385820/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/20/new_71385820_l_1542110291.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385820/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.4 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.8 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1128 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "3072 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen Obelisk 875-0014ur (5CR23EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385841/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/41/new_71385841_l_1542111360.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385841/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "AMD"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.6 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "3.9 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1050 Ti"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "4096 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Omen Obelisk 875-0013ur (4XC52EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385842/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/42/new_71385842_l_1542112109.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385842/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i5-8400"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "2.8 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1128 Тб"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1060"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "3072 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Системный блок HP Pavilion Gaming 790-0003ur (4DV21EA)",
+   "url": "https://www.eldorado.ru/cat/detail/71385844/",
+   "desctopImage": "https://static.eldorado.ru/photos/71/713/858/44/new_71385844_l_1542114698.jpeg/resize/200x200/",
+   "desctopImage_url": "https://www.eldorado.ru/cat/detail/71385844/",
+   "desctopDetails": [
+    {
+     "Characters": [
+      {
+       "name": "Операционная система",
+       "value": "Windows 10 Домашняя x64"
+      },
+      {
+       "name": "Производитель процессора",
+       "value": "Intel"
+      },
+      {
+       "name": "Модель процессора",
+       "value": "Core i7-8700"
+      },
+      {
+       "name": "Тактовая частота",
+       "value": "3.2 ГГц"
+      },
+      {
+       "name": "Максимальная тактовая частота",
+       "value": "4.6 ГГц"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "16 Гб"
+      },
+      {
+       "name": "Тип накопителя",
+       "value": "HDD+SSD"
+      },
+      {
+       "name": "Объем накопителя",
+       "value": "1128 Тб"
+      },
+      {
+       "name": "Тип оптического привода",
+       "value": "DVD±RW"
+      },
+      {
+       "name": "Производитель видеокарты",
+       "value": "nVidia"
+      },
+      {
+       "name": "Модель видеокарты",
+       "value": "GeForce GTX 1080"
+      },
+      {
+       "name": "Объем видеопамяти",
+       "value": "8192 МБ"
+      },
+      {
+       "name": "Wi-Fi",
+       "value": "Есть"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2934 @@
+{
+ "MobileItems": [
+  {
+   "name1": "Смартфон Apple iPhone 6S 32Gb Space Grey (MN0W2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205986/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/059/86/new_71205986_l_1473875357.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205986/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205985/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205984/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205983/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 6S 32Gb Rose Gold (MN122RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205983/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/059/83/new_71205983_l_1473874409.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205983/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205986/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205985/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205984/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 6S 32Gb Gold (MN112RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205984/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/059/84/new_71205984_l_1473874785.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205984/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205986/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205985/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205983/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xr 64GB Black (MRY42RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380660/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/60/new_71380660_l_1536792179.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380660/",
+   "price": "64 950 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380661/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380666/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380662/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380663/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.1\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1792x828 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xr 64GB White (MRY52RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380661/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/61/new_71380661_l_1536792370.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380661/",
+   "price": "64 950 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380660/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380666/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380662/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380664/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380663/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.1\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1792x828 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xr 64GB Red (MRY62RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380662/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/62/new_71380662_l_1536792397.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380662/",
+   "price": "64 950 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380660/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380661/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380666/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380664/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380663/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.1\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1792x828 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 6S Plus 32GB как новый Rose Gold (FN2Y2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71381131/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/811/31/new_71381131_l_1536317167.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71381131/",
+   "price": "26 990 р.",
+   "MobileDetails": [
+    {
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xr 128GB Red (MRYE2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380668/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/68/new_71380668_l_1536792580.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380668/",
+   "price": "68 950 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380665/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380667/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380613/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380670/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380669/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.1\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1792x828 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone X 64Gb Space Grey (MQAC2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364078/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/78/new_71364078_l_1505392907.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364078/",
+   "price": "64 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364077/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 64Gb Space Grey (MQ6G2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364100/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/641/00/new_71364100_l_1505383712.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364100/",
+   "price": "46 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364099/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364098/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373297/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 Plus 64Gb Gold (MQ8N2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364092/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/92/new_71364092_l_1505391994.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364092/",
+   "price": "55 490 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364094/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364093/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373295/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone X 256Gb Space Grey (MQAF2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364076/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/76/new_71364076_l_1505395215.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364076/",
+   "price": "74 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364075/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone X 64Gb Silver (MQAD2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364077/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/77/new_71364077_l_1505394786.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364077/",
+   "price": "64 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364078/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone X 256Gb Silver (MQAG2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364075/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/75/new_71364075_l_1505395484.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364075/",
+   "price": "74 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364076/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 Plus 64Gb Space Grey (MQ8L2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364094/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/94/new_71364094_l_1505388960.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364094/",
+   "price": "55 490 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364093/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364092/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373295/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 6 32Gb Space Grey (MMQ3D2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71331575/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/315/75/new_71331575_l_1494490829.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71331575/",
+   "price": "21 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71374501/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.4 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "1 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "8 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 64Gb Gold (MQ6J2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364098/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/98/new_71364098_l_1505387887.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364098/",
+   "price": "46 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364100/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364099/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373297/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 Plus 64Gb Silver (MQ8M2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364093/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/93/new_71364093_l_1505390680.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364093/",
+   "price": "55 490 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364094/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364092/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373295/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 64Gb Silver (MQ6H2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364099/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/99/new_71364099_l_1505387358.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364099/",
+   "price": "46 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364100/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364098/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373297/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone SE 32Gb Gold (MP842RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71241125/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/411/25/new_71241125_l_1490792139.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71241125/",
+   "price": "18 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241124/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241127/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241126/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1136x640 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 Plus 256Gb Space Grey (MQ8P2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364091/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/91/new_71364091_l_1505389932.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364091/",
+   "price": "67 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364080/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364079/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 256Gb Space Grey (MQ7C2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364097/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/97/new_71364097_l_1505386779.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364097/",
+   "price": "55 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364096/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373293/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 32Gb Jet Black (MQTX2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364140/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/641/40/new_71364140_l_1506073022.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364140/",
+   "price": "37 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205818/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205821/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205819/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205820/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 256Gb Silver (MQ7D2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71364096/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/640/96/new_71364096_l_1505387679.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71364096/",
+   "price": "55 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364097/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373293/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone SE 32Gb Space Grey (MP822RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71241124/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/411/24/new_71241124_l_1490604528.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71241124/",
+   "price": "18 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241127/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241125/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241126/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1136x640 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone SE 32Gb Rose Gold (MP852RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71241126/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/411/26/new_71241126_l_1490792794.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71241126/",
+   "price": "18 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241124/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241127/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241125/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1136x640 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 64GB (PRODUCT) Red (MRRM2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71373297/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/732/97/new_71373297_l_1524055267.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71373297/",
+   "price": "46 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364100/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364099/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364098/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 Plus 128Gb Rose Gold (MN4U2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205825/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/25/new_71205825_l_1473865879.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205825/",
+   "price": "51 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205826/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 Plus 32Gb Gold (MNQP2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205833/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/33/new_71205833_l_1473864992.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205833/",
+   "price": "46 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205832/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364139/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205835/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205834/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone SE 32Gb Silver (MP832RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71241127/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/411/27/new_71241127_l_1490793867.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71241127/",
+   "price": "18 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241124/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241125/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71241126/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1136x640 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 32Gb Black (MN8X2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205818/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/18/new_71205818_l_1473862762.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205818/",
+   "price": "37 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364140/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205821/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205819/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205820/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 Plus 32Gb Black (MNQM2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205832/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/32/new_71205832_l_1473864705.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205832/",
+   "price": "46 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364139/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205835/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205833/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205834/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 32Gb Rose Gold (MN912RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205820/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/20/new_71205820_l_1473863818.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205820/",
+   "price": "37 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205818/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364140/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205821/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205819/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 32Gb Silver (MN8Y2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205821/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/21/new_71205821_l_1473864204.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205821/",
+   "price": "37 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205818/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364140/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205819/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205820/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 128Gb Gold (MN942RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205799/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/057/99/new_71205799_l_1473862924.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205799/",
+   "price": "43 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205800/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205798/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205812/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205811/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 128Gb Silver (MN932RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205812/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/12/new_71205812_l_1473864201.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205812/",
+   "price": "43 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205800/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205798/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205799/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205811/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 128Gb Black (MN922RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205798/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/057/98/new_71205798_l_1473862608.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205798/",
+   "price": "43 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205800/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205812/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205799/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205811/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 128Gb Rose Gold (MN952RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205811/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/11/new_71205811_l_1473863671.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205811/",
+   "price": "43 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205800/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205798/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205812/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205799/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 7 32Gb Gold (MN902RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205819/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/058/19/new_71205819_l_1473863249.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205819/",
+   "price": "37 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205818/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364140/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205821/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205820/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "2.37 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 8 Plus 64GB (PRODUCT) Red (MRT92RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71373295/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/732/95/new_71373295_l_1524056133.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71373295/",
+   "price": "55 490 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364094/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364093/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71364092/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 6 32GB Gold (MQ3E2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71374501/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/745/01/new_71374501_l_1527259474.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374501/",
+   "price": "21 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71331575/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.4 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "1 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "8 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "1810 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xs Max 256GB Gold (MT552RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380656/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/56/new_71380656_l_1536791820.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380656/",
+   "price": "109 890 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380654/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380655/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2688x1242 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xs 64GB Gold (MT9G2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380644/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/44/new_71380644_l_1536790645.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380644/",
+   "price": "87 890 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380642/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380643/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xs Max 256GB Space Grey (MT532RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380654/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/54/new_71380654_l_1536791714.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380654/",
+   "price": "109 890 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380655/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380656/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.5\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2688x1242 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xs 64GB Space Grey (MT9E2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380642/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/42/new_71380642_l_1536790557.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380642/",
+   "price": "87 890 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380643/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380644/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xs 256GB Gold (MT9K2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380647/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/47/new_71380647_l_1536790831.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380647/",
+   "price": "98 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380645/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380646/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xr 128GB Black (MRY92RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380665/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/65/new_71380665_l_1536792530.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380665/",
+   "price": "68 950 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380667/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380613/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380668/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380670/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380669/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.1\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "1792x828 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone Xs 256GB Space Grey (MT9H2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71380645/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/806/45/new_71380645_l_1536790686.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380645/",
+   "price": "98 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380646/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380647/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "6"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение",
+       "value": "2436x1125 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Разрешение",
+       "value": "12+12 Мпикс"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

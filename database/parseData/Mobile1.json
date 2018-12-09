@@ -1,0 +1,3280 @@
+{
+ "MobileItems": [
+  {
+   "name1": "Смартфон Samsung Galaxy A8 2018 Black (SM-A530FZKDSER)",
+   "url": "https://www.eldorado.ru/cat/detail/71368009/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/680/09/new_71368009_l_1516145570.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71368009/",
+   "price": "22 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368007/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368008/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.2 GHz + 1.6 GHz ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2220x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy A7 (2018) 64GB Black (SM-A750FN/DS)",
+   "url": "https://www.eldorado.ru/cat/detail/71382905/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/829/05/new_71382905_l_1539074836.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71382905/",
+   "price": "26 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382904/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382903/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "6х1.6 + 2х2.2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2220x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "24+8+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3300 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy A7 (2018) 64GB Blue (SM-A750FN/DS)",
+   "url": "https://www.eldorado.ru/cat/detail/71382904/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/829/04/new_71382904_l_1539074408.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71382904/",
+   "price": "26 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382905/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382903/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "6х1.6 + 2х2.2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2220x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "24+8+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3300 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 9 64Gb Black",
+   "url": "https://www.eldorado.ru/cat/detail/71362630/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/626/30/new_71362630_l_1540981193.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71362630/",
+   "price": "16 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71345878/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71345879/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 × Cortex A73 2.4 ГГц + 4 × Cortex A53 1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.15\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+20 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3200 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 9 64GB Grey",
+   "url": "https://www.eldorado.ru/cat/detail/71345878/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/458/78/new_71345878_l_1540981071.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71345878/",
+   "price": "16 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71362630/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.4 МГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.15\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+20 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3200 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 9 64GB Blue",
+   "url": "https://www.eldorado.ru/cat/detail/71345879/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/458/79/new_71345879_l_1540981117.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71345879/",
+   "price": "16 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71362630/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71345878/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.4 МГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.15\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+20 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3200 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy A7 (2018) 64GB Pink (SM-A750FN/DS)",
+   "url": "https://www.eldorado.ru/cat/detail/71382903/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/829/03/new_71382903_l_1539073641.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71382903/",
+   "price": "26 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382905/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382904/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "6х1.6 + 2х2.2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2220x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "24+8+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3300 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Xiaomi Redmi Note 5 32GB Gold",
+   "url": "https://www.eldorado.ru/cat/detail/71374765/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/747/65/new_71374765_l_1528961104.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374765/",
+   "price": "11 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375405/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.99\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "4000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy A8 2018 Gold (SM-A530FZDDSER)",
+   "url": "https://www.eldorado.ru/cat/detail/71368007/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/680/07/new_71368007_l_1516145466.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71368007/",
+   "price": "22 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368009/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368008/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.2 GHz + 1.6 GHz ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2220x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S8 Black",
+   "url": "https://www.eldorado.ru/cat/detail/71248065/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/480/65/new_71248065_l_1493101662.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71248065/",
+   "price": "39 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71248063/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71248064/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370105/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "Водонепроницаемость, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.3 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Изогнутый дисплей",
+       "value": "Есть"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor View 10 128GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71370108/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/701/08/new_71370108_l_1540989351.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71370108/",
+   "price": "27 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370107/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370106/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 × Cortex A73 2,36 ГГц + 4 × Cortex A53 1,8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.99\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16+20 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3750 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor View 10 128GB Blue",
+   "url": "https://www.eldorado.ru/cat/detail/71370107/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/701/07/new_71370107_l_1540989103.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71370107/",
+   "price": "27 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370108/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370106/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 x Cortex A73 2,36 ГГц + 4 x Cortex A53 1,8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.99\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16+20 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3750 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9+ 64GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71370980/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/709/80/new_71370980_l_1519296357.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71370980/",
+   "price": "59 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371001/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370979/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71379331/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х2.7 + 4х1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9 64GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71371003/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/710/03/new_71371003_l_1519296031.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71371003/",
+   "price": "54 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371004/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371002/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4x2.7 + 4x1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 7X Black",
+   "url": "https://www.eldorado.ru/cat/detail/71368141/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/681/41/new_71368141_l_1540988055.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71368141/",
+   "price": "14 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368090/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368142/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370008/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х2.36 + 4х1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.9\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16+2 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3340 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor View 10 128GB Red",
+   "url": "https://www.eldorado.ru/cat/detail/71370106/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/701/06/new_71370106_l_1540988570.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71370106/",
+   "price": "27 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370108/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370107/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 × Cortex A73 2.36 ГГц + 4 × Cortex A53 1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.99\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16+20 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3750 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S8 Plus Black",
+   "url": "https://www.eldorado.ru/cat/detail/71248068/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/480/68/new_71248068_l_1493103349.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71248068/",
+   "price": "43 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71248066/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71248067/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "Водонепроницаемость, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.3 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Изогнутый дисплей",
+       "value": "Есть"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 7X Blue",
+   "url": "https://www.eldorado.ru/cat/detail/71368090/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/680/90/new_71368090_l_1540986450.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71368090/",
+   "price": "14 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368141/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368142/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370008/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х2.36 + 4х1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.9\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16+2 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3340 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 7A Pro Black",
+   "url": "https://www.eldorado.ru/cat/detail/71373811/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/738/11/new_71373811_l_1540990156.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71373811/",
+   "price": "8 490 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373570/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373569/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 x 1.4 + 4 x 1.1 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "16 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.7\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1440x720 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "13 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy A8 2018 Blue (SM-A530FZBDSER)",
+   "url": "https://www.eldorado.ru/cat/detail/71368008/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/680/08/new_71368008_l_1523872516.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71368008/",
+   "price": "22 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368009/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71368007/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2х2.2 + 6х1.6 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2220x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "16 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy Note 9 128GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71378350/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/783/50/new_71378350_l_1535480056.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71378350/",
+   "price": "69 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71378348/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.7+1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.4\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "4000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 7A Pro Blue",
+   "url": "https://www.eldorado.ru/cat/detail/71373570/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/735/70/new_71373570_l_1540990095.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71373570/",
+   "price": "8 490 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373811/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71373569/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 x 1.4 + 4 x 1.1 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "16 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.7\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1440x720 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "13 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9 64GB Ultraviolet",
+   "url": "https://www.eldorado.ru/cat/detail/71371002/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/710/02/new_71371002_l_1519296721.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71371002/",
+   "price": "54 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371003/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371004/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4x2.7 + 4x1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S8 Ultraviolet",
+   "url": "https://www.eldorado.ru/cat/detail/71248063/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/480/63/new_71248063_l_1493100775.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71248063/",
+   "price": "39 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71248065/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71248064/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370105/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "Водонепроницаемость, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.3 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Изогнутый дисплей",
+       "value": "Есть"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9+ 64GB Ultraviolet",
+   "url": "https://www.eldorado.ru/cat/detail/71370979/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/709/79/new_71370979_l_1519296608.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71370979/",
+   "price": "59 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370980/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371001/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71379331/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х2.7 + 4х1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 9 Lite 64GB Blue (LLD-L31)",
+   "url": "https://www.eldorado.ru/cat/detail/71375985/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/759/85/new_71375985_l_1540992952.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71375985/",
+   "price": "14 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375986/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375984/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4×2.36 & 4×1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.65\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "13+2 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9+ 64GB Titan",
+   "url": "https://www.eldorado.ru/cat/detail/71371001/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/710/01/new_71371001_l_1519296494.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71371001/",
+   "price": "59 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370980/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370979/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71379331/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х2.7 + 4х1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 9 Lite 64GB Midnight Black (LLD-L31)",
+   "url": "https://www.eldorado.ru/cat/detail/71375986/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/759/86/new_71375986_l_1540993564.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71375986/",
+   "price": "14 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375984/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375985/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4×2.36 & 4×1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.65\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "13+2 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9 64GB Titan",
+   "url": "https://www.eldorado.ru/cat/detail/71371004/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/710/04/new_71371004_l_1519296184.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71371004/",
+   "price": "54 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371003/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371002/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4x2.7 + 4x1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.8\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9+ 256GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71371143/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/709/80/new_71370980_l_1519296357.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71371143/",
+   "price": "67 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71374610/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Sony Xperia XA1 DS Black",
+   "url": "https://www.eldorado.ru/cat/detail/71335244/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/352/44/new_71335244_l_1495379241.png/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71335244/",
+   "price": "15 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71335241/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71335243/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71335242/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.3 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1280x720 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "23 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "2300 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Sony Xperia XA1 Plus Dual Black (G3412)",
+   "url": "https://www.eldorado.ru/cat/detail/71374655/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/746/55/new_71374655_l_1527622458.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374655/",
+   "price": "16 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71374654/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 x 2.3 + 4 x 1.6 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "23 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3430 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 10 64GB Phantom Blue",
+   "url": "https://www.eldorado.ru/cat/detail/71372182/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/721/82/new_71372182_l_1540989529.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71372182/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372183/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372181/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71378016/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х1.8 + 4х2.36 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.84\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2280x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "24+16 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3400 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Sony Xperia XA2 Dual Black",
+   "url": "https://www.eldorado.ru/cat/detail/71374653/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/746/53/new_71374653_l_1527622164.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374653/",
+   "price": "22 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71374652/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "23 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3300 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 9 Lite 64GB Glacier Grey (LLD-L31)",
+   "url": "https://www.eldorado.ru/cat/detail/71375984/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/759/84/new_71375984_l_1540992833.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71375984/",
+   "price": "14 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375986/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71375985/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4×2.36 & 4×1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.65\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "13+2 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy Note 9 512GB Copper",
+   "url": "https://www.eldorado.ru/cat/detail/71378349/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/783/49/new_71378349_l_1535479153.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71378349/",
+   "price": "89 990 р.",
+   "MobileDetails": [
+    {
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.7+1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "8 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "512 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.4\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "4000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 10 64GB Midnight Black",
+   "url": "https://www.eldorado.ru/cat/detail/71372183/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/721/83/new_71372183_l_1540989606.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71372183/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372181/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372182/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71378016/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х1.8 + 4х2.36 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.84\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2280x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "24+16 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3400 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Vivo V11 Starry Night (1804)",
+   "url": "https://www.eldorado.ru/cat/detail/71381653/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/816/53/new_71381653_l_1537274916.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71381653/",
+   "price": "29 990 р.",
+   "MobileDetails": [
+    {
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.41\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2340x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3400 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9+ 256GB Purple (SM-G965F/DS)",
+   "url": "https://www.eldorado.ru/cat/detail/71374610/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/746/10/new_71374610_l_1527525548.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374610/",
+   "price": "67 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371143/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4х2.7 + 4х1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "256 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Sony Xperia XA1 Plus Dual Gold (G3412)",
+   "url": "https://www.eldorado.ru/cat/detail/71374654/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/746/54/new_71374654_l_1527622301.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374654/",
+   "price": "16 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71374655/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "4 x 2.3 + 4 x 1.6 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.5\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1920x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "23 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3430 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy Note 9 128GB Indigo",
+   "url": "https://www.eldorado.ru/cat/detail/71378348/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/783/48/new_71378348_l_1535478621.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71378348/",
+   "price": "69 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71378350/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "От влаги, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.7+1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "128 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.4\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "4000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Sony Xperia XA2 Plus Black (H4413)",
+   "url": "https://www.eldorado.ru/cat/detail/71380252/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/802/52/new_71380252_l_1535697400.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71380252/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380253/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380254/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71380255/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2160x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "23 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3580 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Vertex Impress Lagune 4G 32GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71374993/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/749/93/new_71374993_l_1529056340.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71374993/",
+   "price": "5 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71374994/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "4"
+      },
+      {
+       "name": "Частота",
+       "value": "1.25 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1280x720 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "13 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "2200 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Honor 10 64Gb Phantom Green (COL-L29)",
+   "url": "https://www.eldorado.ru/cat/detail/71378016/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/780/16/new_71378016_l_1540993775.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71378016/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372183/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372181/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71372182/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2.36 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "4 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.84\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2280x1080 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "24+16 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3400 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Samsung Galaxy S9+ 64GB Red",
+   "url": "https://www.eldorado.ru/cat/detail/71379331/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/793/31/new_71379331_l_1535709620.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71379331/",
+   "price": "59 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370980/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71371001/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71370979/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Защита корпуса",
+       "value": "Водонепроницаемость, От пыли"
+      },
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2. 7+ 1.7 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "6 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "64 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "6.2\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "2960x1440 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+12 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3500 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Xiaomi Redmi 6 32GB Black",
+   "url": "https://www.eldorado.ru/cat/detail/71382934/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/829/34/new_71382934_l_1539180669.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71382934/",
+   "price": "11 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382933/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.45\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1440x720 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Xiaomi Redmi 6 32GB Gold",
+   "url": "https://www.eldorado.ru/cat/detail/71382933/",
+   "cardImage": "https://static.eldorado.ru/photos/71/713/829/33/new_71382933_l_1539180254.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71382933/",
+   "price": "11 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71382934/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "Android"
+      },
+      {
+       "name": "Поддержка 2-х SIM-карт",
+       "value": "Есть"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "8"
+      },
+      {
+       "name": "Частота",
+       "value": "2 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "3 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "5.45\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1440x720 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12+5 Мпикс"
+      },
+      {
+       "name": "Емкость аккумулятора (мА*ч)",
+       "value": "3000 мА*ч"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name1": "Смартфон Apple iPhone 6S 32Gb Space Grey (MN0W2RU/A)",
+   "url": "https://www.eldorado.ru/cat/detail/71205986/",
+   "cardImage": "https://static.eldorado.ru/photos/71/712/059/86/new_71205986_l_1473875357.jpeg/resize/200x200/",
+   "cardImage_url": "https://www.eldorado.ru/cat/detail/71205986/",
+   "price": "25 990 р.",
+   "MobileDetails": [
+    {
+     "Colors": [
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205985/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205984/"
+      },
+      {
+       "name": "",
+       "url": "https://www.eldorado.ru/cat/detail/71205983/"
+      }
+     ],
+     "Params": [
+      {
+       "name": "Операционная система",
+       "value": "iOS"
+      },
+      {
+       "name": "Количество ядер",
+       "value": "2"
+      },
+      {
+       "name": "Частота",
+       "value": "1.8 ГГц"
+      },
+      {
+       "name": "Объем оперативной памяти",
+       "value": "2 ГБ"
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "value": "32 ГБ"
+      },
+      {
+       "name": "Диагональ",
+       "value": "4.7\""
+      },
+      {
+       "name": "Разрешение экрана",
+       "value": "1334x750 Пикс"
+      },
+      {
+       "name": "Работа в 4G(LTE)-сетях",
+       "value": "Есть"
+      },
+      {
+       "name": "Камера",
+       "value": "12 Мпикс"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
